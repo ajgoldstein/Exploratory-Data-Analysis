@@ -1,7 +1,7 @@
 # Exploratory-Data-Analysis
 12 weeks of Data Science tutorials, all part of University of Michigan's SI 370: Data Exploration in Fall 2017.
 
-Dr. Chris Teplov's SI 370 provided me an incredibly holisitic overview of the most up-to-date tools, techniques, and practices for doing Data Science -- so I thought I'd share it all here for others who are also trying to master the fundamentals.
+SI 370 provided me an incredibly holisitic overview of the most up-to-date tools, techniques, and practices for doing Data Science -- so I thought I'd share it all here for others who are also trying to master the fundamentals.
 
 This repository serves as a collection of all the labs, lectures, and homeworks from each week of the class. For more information on the course, see the class syllabus above.
 
