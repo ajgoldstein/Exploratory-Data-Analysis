@@ -3,7 +3,9 @@
 
 SI 370 provided me an incredibly holisitic overview of the most up-to-date tools, techniques, and practices for doing Data Science -- so I thought I'd share it all here for others who are also trying to master the fundamentals.
 
-This repository serves as a collection of all the labs, lectures, and homeworks from each week of the class. In each .zip file above, you'll find the corresponding Jupyter notebook (.ipynb), images (.jpeg, .png), and datasets (mostly .csv files) for that assignment.
+This repository serves as a collection of all the labs, lectures, and homeworks from each week of the class.
+
+In each .zip file above, you'll find the corresponding Jupyter notebook (.ipynb), images (.jpeg, .png), and datasets (mostly .csv files) for that assignment.
 
 ## Overview
 * <b>Week 1 - Data Wrangling with Python Pandas</b>
