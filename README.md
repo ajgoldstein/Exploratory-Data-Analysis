@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis
-12 weeks of tutorials covering the entire Data Science process, all part of University of Michigan's SI 370: Data Exploration.
+12 weeks of data science tutorials, all part of University of Michigan's SI 370: Data Exploration.
 
 ## Overview
 * Week 1 - Data Wrangling with Python Pandas
